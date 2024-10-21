@@ -9,6 +9,8 @@
 
 Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
 
+This fork is a version that unlocks all openly available models for [Helsinki-NLP](https://huggingface.co/Helsinki-NLP) 
+
 > **Github repository**: <https://github.com/tdhm/subtitles-translator/>
 
 > **Documentation** <https://tdhm.github.io/Subtitles-Translator/>
